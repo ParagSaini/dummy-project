@@ -20,6 +20,6 @@ int main()
 
     }
       printf("the lcm is %d",s[a-1]);
-     
+     getch();
      return 0;
 }
